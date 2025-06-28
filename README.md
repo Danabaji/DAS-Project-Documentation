@@ -12,3 +12,15 @@ This is where I started my Portfolio building while taking my Data Analysis clas
 
 ### Data Source
 The primary source of Data used here is Data Sale.csv, and this is an open-source dataset that can be freely downloaded from an open-source online site such as Kaggle or FRED or any other data repository site.
+
+### Tools used 
+- Ms Excel for data cleaning [Download Here](https://www.microsoft.com/en/microsoft-365/excel?market=af)
+   - For Data Collection
+   - For Data Cleaning
+     1. Data Manipulation
+     2. Data Munching 
+- SQL Server (For Querying and Analysis)
+- Power BI (For creating a report)
+- Ms PowerPoint (For Presentation)
+
+  
